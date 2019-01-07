@@ -1,0 +1,127 @@
+body,
+html {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p,
+b {
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid {
+    padding: 0px !important;
+}
+header {
+    background: url(../image/back.png) left top no-repeat;
+    background-size: cover;
+    color: white;
+    overflow: hidden;
+}
+.head img {
+    margin: 9% 0px 0px 11%;
+}
+header p {
+    margin: 3% 0% 2% 12%;
+}
+.img {
+    margin: 0% 0% 17% 10%;
+}
+.contain3 {
+    background: #e3e3e3;
+}
+.btn11 {
+    border-radius: 100%;
+    background: #39241b;
+    cursor: pointer;
+    height: 55px;
+    width: 55px;
+    padding: 10px;
+    margin-left: 10px;
+    border: none;
+}
+#bt1 {
+    font-size: 23px;
+    background: #2ecc71;
+    box-shadow: 1px 1px 1PX 1PX #2ecc71;
+    padding: 14px 17px 8px 17px;
+}
+.btn11:hover {
+    background: green;
+    cursor: pointer;
+}
+.text {
+    box-shadow: 1px 1px 1PX 1PX #888884;
+    border: 1px solid grey;
+    height: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 27px;
+   
+}
+.context1 {
+    text-align: center;
+    margin: 34px 0px;
+}
+.context3 {
+    float: left;
+    margin: 6% 0% 5% 2%;
+    width: 300px;
+    text-align: center;
+}
+.btn1 {
+    height: 89px;
+    width: 89px;
+    border-radius: 100%;
+    background: #2ecc71;
+    margin-top: 16px;
+    border: none;
+}
+.content3 img {
+    margin: 8% 0% 8% 0%;
+    width: 100%;
+}
+.context4 img {
+    width: 90%;
+    margin-top: 9px;
+}
+.btn2 {
+    width: 46px;
+    border-radius: 100%;
+    background: #d4d4d4;
+    height: 46px;
+    margin-left: 8px;
+    border: none;
+}
+.contain2 {
+    text-align: center;
+}
+.btn2:hover {
+    background: green;
+}
+.cmd {
+    padding: 26px 51px 0px 51px;
+    font-size: 17px;
+}
+footer {
+    width: 100%;
+    margin-top: 35px;
+    background: #e3e3e3;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+}
+footer li {
+    display: inline;
+    margin-left: 1px;
+    padding: 7px;
+    font-size: 16px;
+}
